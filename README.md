@@ -1,5 +1,7 @@
 # GoTofuEnv
 
+This project have been merged with [tenv](https://github.com/tofuutils/tenv), and the work (improvements and bugfixes) will continue on the [tenv](https://github.com/tofuutils/tenv) repository.
+
 [OpenTofu](https://opentofu.org) version manager (inspired by [tofuenv](https://github.com/tofuutils/tofuenv), written in Go)
 
 Support [Terraform](https://www.terraform.io/) too (see [here](#terraform-support)).
