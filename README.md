@@ -14,7 +14,7 @@ GoTofuEnv can use [cosign](https://github.com/sigstore/cosign) (if present) to c
 
 ### Automatic
 
-Install via [Homebrew](https://brew.sh/)
+Install via [Homebrew](https://brew.sh/) (migration from dvaumoron/tap and renaming to [tenv](https://github.com/tofuutils/tenv) are in place)
 
 ```console
 brew tap tofuutils/tap
